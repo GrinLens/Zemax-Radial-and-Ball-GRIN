@@ -1,4 +1,4 @@
-# Zemax-Radial-andBall-GRIN
+# Zemax-Radial-and-Ball-GRIN
 ### Zemax / OpticStudio Model for Radial and Ball GRIN Lenses
 
 See file "MGRIN Radial and Ball Documentation.pdf" for more details.
