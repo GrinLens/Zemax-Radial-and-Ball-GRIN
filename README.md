@@ -8,7 +8,11 @@ File list:
 Radial and Ball GRIN Documentation.pdf
 
 ## DLLs
+MGRINx32_Ball_v100.dll [32-bit version for 32-bit operating systems only]
+
 MGRINx64_Ball_v100.dll [64-bit version for 64-bit operating systems only]
+
+MGRINx32_Radial_v100.dll [32-bit version for 32-bit operating systems only]
 
 MGRINx64_Radial_v100.dll [64-bit version for 64-bit operating systems only]
 
