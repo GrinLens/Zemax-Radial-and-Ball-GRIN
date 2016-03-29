@@ -38,7 +38,9 @@ GRIN Reverse Singlet.zpl
 ZPL18.zpl
 
 ## Example Files
-Example Files.zip contains the following examples (a *.zmx and *.zda file for each)
+Files are provided for OpticStudio (ZOS) and Zemax v13 (Z13)
+
+"Example Files - Zxx.zip" contains the following examples (a *.zmx and [*.zda / *.ses] file for each)
 
 MGRIN_Ball_Tutorial_Final
 
