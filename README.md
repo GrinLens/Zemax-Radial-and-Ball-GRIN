@@ -3,6 +3,8 @@
 
 See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
+NOTE on Example Files - The files were created in OpticStudio.  Files opened in Zemax v13 work, but will not necessarily have properly formatted layouts.  Ensure all fields and all surfaces are diplayed in the 2D layout plots.
+
 File list:
 ## Documentation
 Radial and Ball GRIN Documentation.pdf
