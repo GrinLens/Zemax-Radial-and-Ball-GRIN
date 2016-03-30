@@ -1,15 +1,15 @@
 # Zemax-Radial-and-Ball-GRIN
-### Zemax / OpticStudio Model for Radial and Ball GRIN Lenses
+## Zemax / OpticStudio Model for Radial and Ball GRIN Lenses
 
 See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
 Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
-File list:
-## Documentation
+##File list:
+### Documentation
 Radial and Ball GRIN Documentation.pdf
 
-## DLLs
+### DLLs
 MGRINx32_Ball_v100.dll [32-bit version for 32-bit operating systems only]
 
 MGRINx64_Ball_v100.dll [64-bit version for 64-bit operating systems only]
@@ -18,7 +18,7 @@ MGRINx32_Radial_v100.dll [32-bit version for 32-bit operating systems only]
 
 MGRINx64_Radial_v100.dll [64-bit version for 64-bit operating systems only]
 
-## Macros
+### Macros
 GRIN Macros RandB.zip contains the following macros
 
 GRIN Base Material Index.zpl
@@ -37,7 +37,7 @@ GRIN Reverse Singlet.zpl
 
 ZPL18.zpl
 
-## Example Files
+### Example Files
 Files are provided for OpticStudio (ZOS) and Zemax v13 (Z13)
 
 "Example Files Zxx.zip" contains the following examples (a *.zmx and [ *.zda or *.ses ] file for each)
