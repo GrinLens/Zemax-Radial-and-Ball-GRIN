@@ -3,7 +3,7 @@
 
 See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
-Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in all *.zmx files before opening them.
+Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
 File list:
 ## Documentation
