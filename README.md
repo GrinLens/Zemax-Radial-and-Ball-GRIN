@@ -1,9 +1,19 @@
 # Zemax-Radial-and-Ball-GRIN
 ## Zemax / OpticStudio Model for Radial and Ball GRIN Lenses
 
-Click on "Releases" icon above for links to downloadable files.
+###TO DOWNLOAD FILES:
 
-See file "Radial and Ball GRIN Documentation.pdf" for more details.
+Go to https://github.com/GrinLens/Zemax-Radial-and-Ball-GRIN/releases
+
+OR:
+
+Look above, beneath the words "Radial and Ball GRIN Lens Geometries"
+
+at the line which says "commits, branch, release(s), contributor"
+
+click on either release or releases.  Leads to download links.
+
+####See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
 Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
