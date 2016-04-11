@@ -9,9 +9,9 @@ OR:
 
 Look above, beneath the words "Radial and Ball GRIN Lens Geometries"
 
-at the line which says "commits, branch, release(s), contributor"
+at the line which says "commits, branch, release(s), contributor."
 
-click on either release or releases.  Leads to download links.
+Click on either release or releases.  Leads to download links.
 
 ####See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
