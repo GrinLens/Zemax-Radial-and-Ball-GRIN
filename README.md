@@ -17,6 +17,8 @@ Click on either release or releases.  Leads to download links.
 
 Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
+Bug note: It has been found that recent versions of Zemax fail to operate properly with a Ball GRIN lens whose GRIN center lies off the optical axis.  Efforts are (sporadically) underway to resolve the problem.
+
 ##File list:
 ### Documentation
 Radial and Ball GRIN Documentation.pdf
