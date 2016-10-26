@@ -17,7 +17,12 @@ Click on either release or releases.  Leads to download links.
 
 Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
-Bug note: It has been found that recent versions of Zemax fail to operate properly with a Ball GRIN lens whose GRIN center lies off the optical axis.  Efforts are (sporadically) underway to resolve the problem.
+##Known Bugs
+The Ball GRIN DLL crashes when the GRIN center of symmetry lies off the optical axis (Xo or Yo !=  0.0).
+
+Setting n_BFlag to 1 doesn't work properly when the index of Material 1 is greater than that of Material 2.
+
+(10/26/2016: Both of these issues have now been solved.  New DLLs will be available soon in an upcoming release.)
 
 ##File list:
 ### Documentation
