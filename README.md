@@ -15,30 +15,26 @@ Click on either release or releases.  Leads to download links.
 
 ####See file "Radial and Ball GRIN Documentation.pdf" for more details.
 
-Note for 32-bit system users of the Example Files: use a text editor to replace all instances of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
+##Latest version (11/21/2016)
+Versions 1.0.2 are now uploaded, with revised DLLs, Macros, and Example Files.
 
-##Known Bugs
-The Ball GRIN DLL crashes when the GRIN center of symmetry lies off the optical axis (Xo or Yo !=  0.0).
-
-Setting n_BFlag to 1 doesn't work properly when the index of Material 1 is greater than that of Material 2.
-
-(10/26/2016: Both of these issues have now been solved.  New DLLs will be available soon in an upcoming release.)
+The documentation remains unchanged, however, as these versions fix bugs "under the hood" of the code.
 
 ##File list:
 ### Documentation
 Radial and Ball GRIN Documentation.pdf
 
 ### DLLs
-MGRINx32_Ball_v100.dll [32-bit version for 32-bit operating systems only]
+MGRINx32_Ball_v102.dll [32-bit version for 32-bit operating systems only]
 
-MGRINx64_Ball_v100.dll [64-bit version for 64-bit operating systems only]
+MGRINx64_Ball_v102.dll [64-bit version for 64-bit operating systems only]
 
-MGRINx32_Radial_v100.dll [32-bit version for 32-bit operating systems only]
+MGRINx32_Radial_v102.dll [32-bit version for 32-bit operating systems only]
 
-MGRINx64_Radial_v100.dll [64-bit version for 64-bit operating systems only]
+MGRINx64_Radial_v102.dll [64-bit version for 64-bit operating systems only]
 
 ### Macros
-GRIN Macros RandB.zip contains the following macros
+GRIN.Macros.161118.zip contains the following macros
 
 GRIN Base Material Index.zpl
 
@@ -57,7 +53,10 @@ GRIN Reverse Singlet.zpl
 ZPL18.zpl
 
 ### Example Files
-Files are provided for OpticStudio (ZOS) and Zemax v13 (Z13)
+Files are provided for Zemax OpticStudio (ZOS) and Zemax v13 (Z13) and earlier
+
+Note for 32-bit system users of the Example Files: use a text editor to replace all instances
+of MGRINx64 with MGRINx32 in any *.zmx example file before opening it.
 
 "Example Files Zxx.zip" contains the following examples (a *.zmx and [ *.zda or *.ses ] file for each)
 
